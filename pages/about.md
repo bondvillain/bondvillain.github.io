@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: about Bond Villain.
 permalink: /about/
 ---
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="bond.villain" width="400">

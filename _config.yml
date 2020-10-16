@@ -1,7 +1,7 @@
 # Site Settings
-name: BondVillain.tv
+name: bondvillain.tv
 title: BondVillain.tv | Art, Music, Film
-description: BondVillain.tv content for the unamused
+description: content for the unamused
 tags:
   - BondVillain
   - bondvillain.tv
@@ -19,8 +19,6 @@ menu:
 email: bondvillaintv@mail.com
 
 # Social Media Settings
-# Remove the item if you don't need it
-
 facebook_username: PhillyBondVillain
 instagram_username: bond.villain
 
