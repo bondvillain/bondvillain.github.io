@@ -1,0 +1,20 @@
+---
+date: 2020-03-16 23:48:05
+layout: post
+title: Welcome to the indie wasteland
+subtitle: 'All has tanked but the pulse keeps going'
+description: >-
+  All has tanked but the pulse keeps going
+image: /assets/img/uploads/tvlogo-wide.png
+optimized_image: /assets/img/uploads/tvlogo-wide.png
+category: blog
+tags:
+  - welcome
+author: bondvillain
+---
+*For the foreseeable future*, [our channel](https://www.youtube.com/channel/UC5eSIJ6JJPG1_WiVp0_ZLNw) will feature installations from curated artists seeking to rebuild a supporting music scene in times of uncertainty.
+
+*  Follow us on **[Instagram](https://www.instagram.com/bond.villain)** for the most updates
+
+
+<cite>&mdash;bond villain .tv</cite>

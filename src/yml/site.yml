@@ -1,0 +1,18 @@
+name: BondVillain.tv
+title: BondVillain.tv
+description: BondVillain.tv
+tags:
+  - BondVillain
+  - bondvillain.tv
+  - music
+  - art
+  - film
+show_hero: true
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+email: bondvillaintv@mail.com
