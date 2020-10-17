@@ -13,7 +13,7 @@ tags:
   - blog
 author: bondvillain
 ---
-![bondvillain.tv](/assets/img/uploads/tvlogo-wide.png "bondvillain.tv")
+![bondvillain.tv](/assets/img/uploads/tvlogo-wide.jpg "bondvillain.tv")
 <br>
 *For the foreseeable future*, [our channel](https://www.youtube.com/channel/UC5eSIJ6JJPG1_WiVp0_ZLNw) will feature installations from curated artists seeking to rebuild a supporting music scene in times of uncertainty.
 
