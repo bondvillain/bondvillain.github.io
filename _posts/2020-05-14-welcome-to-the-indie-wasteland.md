@@ -10,6 +10,7 @@ optimized_image: /assets/img/uploads/tvlogo-wide.png
 category: blog
 tags:
   - welcome
+  - blog
 author: bondvillain
 ---
 *For the foreseeable future*, [our channel](https://www.youtube.com/channel/UC5eSIJ6JJPG1_WiVp0_ZLNw) will feature installations from curated artists seeking to rebuild a supporting music scene in times of uncertainty.
