@@ -6,13 +6,15 @@ subtitle: 'All has tanked but the pulse keeps going'
 description: >-
   All has tanked but the pulse keeps going
 image: /assets/img/uploads/tvlogo-wide.png
-optimized_image: /assets/img/uploads/tvlogo-wide.png
+optimized_image:
 category: blog
 tags:
   - welcome
   - blog
 author: bondvillain
 ---
+![bondvillain.tv](/assets/img/uploads/tvlogo-wide.png "bondvillain.tv")
+<br>
 *For the foreseeable future*, [our channel](https://www.youtube.com/channel/UC5eSIJ6JJPG1_WiVp0_ZLNw) will feature installations from curated artists seeking to rebuild a supporting music scene in times of uncertainty.
 
 *  Follow us on **[Instagram](https://www.instagram.com/bond.villain)** for the most updates
