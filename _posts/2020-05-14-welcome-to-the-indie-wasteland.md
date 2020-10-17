@@ -5,7 +5,7 @@ title: Welcome to the indie wasteland
 subtitle: 'All has tanked but the pulse keeps going'
 description: >-
   All has tanked but the pulse keeps going
-image: /assets/img/uploads/tvlogo-wide.png
+image: assets/img/uploads/tvlogo-wide.png
 optimized_image:
 category: blog
 tags:
