@@ -3,7 +3,7 @@ date: 2017-01-29 13:24:49
 layout: post
 title: John Henry
 description: Driftwood Soldier
-image: /assets/img/uploads/dws.jpg
+image: /assets/img/uploads/dws.JPG
 optimized_image:
 subtitle: Driftwood Soldier
 category: music

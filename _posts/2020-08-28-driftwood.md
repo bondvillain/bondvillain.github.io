@@ -3,7 +3,7 @@ date: 2020-08-28 13:24:49
 layout: post
 title: Gimme Music
 description: Driftwood Soldier
-image: /assets/img/uploads/dwsgm.jpg
+image: /assets/img/uploads/dwsgm.JPG
 optimized_image:
 subtitle: Driftwood Soldier - feat. Melina Harris and KooF
 category: music
