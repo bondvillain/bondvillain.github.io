@@ -15,7 +15,7 @@ author: bondvillain
 ---
 ![bondvillain.tv](/assets/img/uploads/tvlogo-wide.jpg "bondvillain.tv")
 <br>
-*For the foreseeable future*, [our channel](https://www.youtube.com/channel/UC5eSIJ6JJPG1_WiVp0_ZLNw) will feature installations from artists seeking to rebuild a supporting music scene in times of uncertainty.
+[Our channel](https://www.youtube.com/channel/UC5eSIJ6JJPG1_WiVp0_ZLNw) will feature installations from artists seeking to rebuild a supporting music scene in times of uncertainty.
 
 *  Follow us on **[Instagram](https://www.instagram.com/bond.villain)** for the most updates
 

@@ -1,6 +1,12 @@
-# robotstxt.org/
 
 User-agent: *
+Disallow:
 
-#beep{boop}
-#find_the_flag
+*
+####*********
+####********
+##beep_boop!{find_the_flags}
+#|
+#|
+#|
+#|
