@@ -1,10 +1,14 @@
 ---
 ---
 
-$themeColor: #17e354;
+$themeColor: #22b83b;
 $primaryDark: #141414;
-$accentDark: #f3f3f3;
+$accentDark: #FFFFFF;
+///used in light backgrounds and as contrast to dark backgrounds.
+
 $lightGray: #f2f2f2;
+////Color used in borders, contrast to light backgrounds, some links and subtitles.
+
 $texts: #333333;
 
 @import "jekflix";
