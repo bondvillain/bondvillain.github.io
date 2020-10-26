@@ -2,11 +2,6 @@
 User-agent: *
 Disallow:
 
-*
-####*********
-####********
-##beep_boop!{find_the_flags}
-#|
-#|
-#|
-#|
+###
+#
+beep_boop!{find_the_flags}

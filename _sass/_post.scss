@@ -1,5 +1,6 @@
 .post {
   position: relative;
+  background-color: lightgrey;
   top: rem(30px);
 
   @include media(">=sm") {
