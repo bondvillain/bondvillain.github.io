@@ -13,7 +13,7 @@ tags:
   - techno
 author: bondvillain
 ---
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/Uj6tjOfy-z8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube-nocookie.com/embed/Uj6tjOfy-z8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## BlushaBlusher *Live* at Bond Villain's Hott Summer
 From the airwaves in the Philly underground
 presented by:
